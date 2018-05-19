@@ -1,6 +1,7 @@
 {
   "name": "WeatherPWA-Udacity",
   "description": "Your first Progressive Web App",
+  "author": "Ahmzyjazzy",
   "version": "0.0.1",
   "private": true,
   "license": "Apache2",
